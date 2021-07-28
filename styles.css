@@ -3,3 +3,12 @@ body {
     font-size: 15px;
     font-family: 'Spartan', sans-serif;
 }
+
+header {
+    background: url(./images/bg-pattern-top-mobile.svg);
+    margin-top: 0 auto;
+}
+
+header h1 {
+   
+}
