@@ -20,3 +20,7 @@ header h1 {
 .review {
     background-color: hsl(300, 43%, 22%);
 }
+
+.verified {
+    color: hsl(333, 80%, 67%);
+}
