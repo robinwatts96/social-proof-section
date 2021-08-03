@@ -10,5 +10,13 @@ header {
 }
 
 header h1 {
-   
+   color: hsl(300, 43%, 22%);
+}
+
+.rating {
+    color: hsl(300, 43%, 22%);
+}
+
+.review {
+    background-color: hsl(300, 43%, 22%);
 }
