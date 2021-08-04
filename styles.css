@@ -16,6 +16,7 @@ header h1 {
 
 header h2 {
     text-align: center;
+    color: hsl(303, 10%, 53%);
 }
 
 .rating {
