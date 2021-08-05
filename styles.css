@@ -19,6 +19,13 @@ header h2 {
     color: hsl(303, 10%, 53%);
 }
 
+
+.rating-container-1,
+.rating-container-2,
+.rating-container-3 {
+    background-color: hsl(300, 24%, 96%);
+}
+
 .rating {
     color: hsl(300, 43%, 22%);
 }
