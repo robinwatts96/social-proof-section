@@ -62,6 +62,14 @@ header h2 {
 
 .review img {
     border-radius: 50%;
+    width: 15%;
+}
+
+.name,
+.verified {
+    position: relative;
+    left: 100px;
+    top: -50px
 }
 
 .verified {
