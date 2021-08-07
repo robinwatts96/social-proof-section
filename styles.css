@@ -6,6 +6,7 @@ body {
 
 header {
     background: url(./images/bg-pattern-top-mobile.svg);
+    background-repeat: no-repeat;
     margin-top: 0 auto;
 }
 
@@ -21,7 +22,9 @@ header h1 {
 
 header h2 {
     text-align: center;
+    font-size: 17.5px;
     color: hsl(303, 10%, 53%);
+    margin-bottom: 40px;
 }
 
 
