@@ -44,7 +44,7 @@ header h2 {
     font-weight: bold;
     width: 85vw;
     margin-bottom: 20px;
-    border-radius: 5%;
+    border-radius: 3%;
 }
 
 .star {
@@ -59,13 +59,16 @@ header h2 {
 /* Review */
 
 .review-container {
-    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .review {
     background-color: hsl(300, 43%, 22%);
     width: 85vw;
-    border-radius: 5%;
+    border-radius: 3%;
+    margin-bottom: 20px;
 }
 
 .review img {
@@ -76,6 +79,7 @@ header h2 {
 
 .review p {
     color: hsl(0, 0%, 100%);
+    padding: 30px;
 }
 
 .name,
