@@ -60,6 +60,11 @@ header h2 {
     background-color: hsl(300, 43%, 22%);
 }
 
+.review img {
+    border-radius: 50%;
+}
+
 .verified {
     color: hsl(333, 80%, 67%);
 }
+
