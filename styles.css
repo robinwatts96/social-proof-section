@@ -58,6 +58,7 @@ header h2 {
 
 .review {
     background-color: hsl(300, 43%, 22%);
+    display: grid;
 }
 
 .review img {
