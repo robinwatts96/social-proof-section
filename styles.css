@@ -73,15 +73,18 @@ header h2 {
 .name,
 .verified {
     position: relative;
-    left: 100px;
-    top: -50px
+    left: 120px;
+    top: -110px;
+    font-size: 17px;
 }
 
 .name {
     color: hsl(0, 0%, 100%);
+    margin-bottom: 0;
 }
 
 .verified {
     color: hsl(333, 80%, 67%);
+    margin-top: 5px;
 }
 
