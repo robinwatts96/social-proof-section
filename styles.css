@@ -56,8 +56,16 @@ header h2 {
     padding-bottom: 1px;
 }
 
+/* Review */
+
+.review-container {
+    
+}
+
 .review {
     background-color: hsl(300, 43%, 22%);
+    width: 85vw;
+    border-radius: 5%;
 }
 
 .review img {
