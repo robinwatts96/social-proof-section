@@ -63,6 +63,11 @@ header h2 {
 .review img {
     border-radius: 50%;
     width: 15%;
+    margin: 40px 0 40px 40px;
+}
+
+.review p {
+    color: hsl(0, 0%, 100%);
 }
 
 .name,
@@ -70,6 +75,10 @@ header h2 {
     position: relative;
     left: 100px;
     top: -50px
+}
+
+.name {
+    color: hsl(0, 0%, 100%);
 }
 
 .verified {
