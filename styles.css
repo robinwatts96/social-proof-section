@@ -136,6 +136,8 @@ header h2 {
         width: 30vw;
         margin-left: 10vw;
         display: inline-block;
+        position: relative;
+        top: 30px;
     }
 
     header h1,
