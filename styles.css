@@ -133,6 +133,13 @@ header h2 {
 
     header {
         background-image: initial;
+        width: 30vw;
+        margin-left: 10vw;
+    }
+
+    header h1,
+    header h2 {
+        text-align: left;
     }
 
 
