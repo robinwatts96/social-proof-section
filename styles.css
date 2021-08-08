@@ -194,23 +194,24 @@ header h2 {
         font-size: 13px;
     }
 
-    .name,
-    .verified {
+    .review2 {
         position: relative;
-        left: 120px;
-        top: -110px;
-        font-size: 17px;
+        top: 40px;
     }
 
-    .name {
-        color: hsl(0, 0%, 100%);
-        margin-bottom: 0;
+    .review3 {
+        position: relative;
+        top: 80px;
     }
 
-    .verified {
-        color: hsl(333, 80%, 67%);
-        margin-top: 5px;
-    }
+    .attribution {
+        position: fixed;
+        bottom: 10px;
+        left: 41%;
+      }
 
 
 }
+
+
+   
