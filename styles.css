@@ -112,10 +112,28 @@ header h2 {
 }
 
 
+
+/* MEDIA */
+
 @media only screen and (min-width: 1440px) {
 
+    .desktop-img {
+        display: initial;
+        position: fixed;
+    }
 
+    .desktop-img-top {
+        top: 0;
+    }
 
+    .desktop-img-bottom {
+        bottom: 0;
+        right: 0;
+    }
+
+    header {
+        background-image: initial;
+    }
 
 
 
